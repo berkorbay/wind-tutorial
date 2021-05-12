@@ -23,7 +23,7 @@ Briefly, this repository covers fundamentals, provides hands on applications (go
 
 # Usage & License
 
-You can use this repository under the permissive MIT License as long as you respect data license (see [here](https://challengedata.ens.fr/terms_of_use) and [here](https://www.etalab.gouv.fr/licence-ouverte-open-licence)) and scikit-learn license (see [here](https://github.com/scikit-learn/scikit-learn/blob/main/COPYING)).
+You can use this repository under the permissive [MIT License](https://github.com/berkorbay/wind-tutorial/blob/main/LICENSE) as long as you respect data license (see [here](https://challengedata.ens.fr/terms_of_use) and [here](https://www.etalab.gouv.fr/licence-ouverte-open-licence)) and scikit-learn license (see [here](https://github.com/scikit-learn/scikit-learn/blob/main/COPYING)).
 
 # Contact
 
