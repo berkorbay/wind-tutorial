@@ -8,11 +8,17 @@ Purpose of this repository is to provide very simple introductory tutorials for 
 + State-of-the-Art (SotA) approaches are avoided. This is not an ML-Ops repository. Each notebook is an almost-copy of the other, except the model object.
 + Hyperparameter tuning is not covered.
 + Convenient reproducibility is at the center. You only need the input data file and the Jupyter Notebook.
++ Performance is not important and only basic metrics are used in evaluation. But discussion about interpretation in terms of bias, absolute deviation and relative deviation is good practice. *sklearn.metrics* is used to show more of sciki-learn.
 
 Briefly, this repository covers fundamentals, provides hands on applications (good if you are bored of iris dataset), 
 
 # Available Notebooks
 
+## Linear Models
++ [Elastic Net](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_ElasticNet.ipynb)
++ [Linear Regression](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_linearRegression.ipynb)
+
+## Tree Models
 + [Gradient Boosting](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_GradientBoostingRegressor.ipynb)
 + [Random Forests](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_randomForest.ipynb)
 
