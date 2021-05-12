@@ -1,8 +1,8 @@
 # Introduction
 
-Purpose of this repository is to provide very simple introductory tutorials for energy analytics novices. 
+Purpose of this repository is to provide very simple introductory tutorials for energy analytics novices. Each tutorial has the same process. Main objective of this exercise is to provide a quick introduction to basic machine learning models in Python. Students can pick up from where the tutorial ends and improve model performance by simply changing the hyperparameters.
 
-+ Data is preprocessed and cleaned
++ Data is preprocessed and cleaned (see [preprocessing](https://github.com/berkorbay/wind-tutorial/blob/main/preprocessing_cnr.ipynb) notebook)
 + Only scikit-learn models are used.
 + Focused on regression models. Data is actually for forecasting, but we currently do not apply time series models.
 + State-of-the-Art (SotA) approaches are avoided. This is not an ML-Ops repository. Each notebook is an almost-copy of the other, except the model object. See vchapparo's repository in the resources for a sophisticated example.
@@ -19,6 +19,7 @@ Briefly, this repository covers fundamentals, provides hands on applications (go
 + [Linear Regression](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_linearRegression.ipynb)
 
 ## Tree Models
++ [Decision Tree](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_DecisionTree.ipynb)
 + [Gradient Boosting](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_GradientBoostingRegressor.ipynb)
 + [Random Forests](https://github.com/berkorbay/wind-tutorial/blob/main/sklearn_randomForest.ipynb)
 
@@ -36,3 +37,8 @@ You can use this repository under the permissive [MIT License](https://github.co
 
 1. Simply add an [issue](https://github.com/berkorbay/wind-tutorial/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 2. [Add me](https://www.linkedin.com/in/berkorbay/) on Linkedin.
+
+# Next
+
++ Add more models.
++ Add explanations, more notes and guidelines to tutorials. Try to give the intuition of models with as few words as possible.
