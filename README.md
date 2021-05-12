@@ -5,7 +5,7 @@ Purpose of this repository is to provide very simple introductory tutorials for 
 + Data is preprocessed and cleaned
 + Only scikit-learn models are used.
 + Focused on regression models. Data is actually for forecasting, but we currently do not apply time series models.
-+ State-of-the-Art (SotA) approaches are avoided. This is not an ML-Ops repository. Each notebook is an almost-copy of the other, except the model object.
++ State-of-the-Art (SotA) approaches are avoided. This is not an ML-Ops repository. Each notebook is an almost-copy of the other, except the model object. See vchapparo's repository in the resources for a sophisticated example.
 + Hyperparameter tuning is not covered.
 + Convenient reproducibility is at the center. You only need the input data file and the Jupyter Notebook.
 + Performance is not important and only basic metrics are used in evaluation. But discussion about interpretation in terms of bias, absolute deviation and relative deviation is good practice. *sklearn.metrics* is used to show more of sciki-learn.
@@ -26,6 +26,7 @@ Briefly, this repository covers fundamentals, provides hands on applications (go
 
 + [scikit-learn](https://scikit-learn.org)
 + [ENS - CNR Challenge](https://challengedata.ens.fr/challenges/34) **(data set)**
++ [vchapparo's repository](https://github.com/vchaparro/wind-power-forecasting)
 
 # Usage & License
 
